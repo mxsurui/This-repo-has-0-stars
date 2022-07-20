@@ -12,7 +12,7 @@ logger = get_logger()
 # github的token
 github_token = ""
 # 项目的api的url
-repo_url = "https://api.github.com/repos/fslongjin/This-project-has-N-stars"
+repo_url = "https://api.github.com/repos/mxsurui/This-repo-has-0-stars"
 regex_pattern = re.compile(r'This-repo-has-(\d+)?-stars')
 headers = {
     "Accept": "application/vnd.github.v3+json",
